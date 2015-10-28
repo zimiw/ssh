@@ -6,3 +6,5 @@ third write
 write in local
 
 what in loacl
+
+change in daily
