@@ -4,5 +4,3 @@ second write
 third write
 
 write in local
-
-what in loacl
